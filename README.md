@@ -1,9 +1,10 @@
-[![DOI](https://zenodo.org/badge/608649460.svg)](https://doi.org/10.5281/zenodo.18208384)
-
 # awesome-pangenomes
-## A list of software capable of analyzing mainly **eukaryotic** genomes for pangenomics. 
 
-A new section for microbial genomes has also been added, these tools may not scale to large genomes. 
+>[!NOTE]
+> A list of software capable of analyzing mainly **eukaryotic** genomes for pangenomics.
+> A new section for microbial genomes has also been added, these tools may not scale to large genomes.
+
+[![DOI](https://zenodo.org/badge/608649460.svg)](https://doi.org/10.5281/zenodo.18208384)
 
 :rocket: indicates a popular repository
 
@@ -99,7 +100,7 @@ A new section for microbial genomes has also been added, these tools may not sca
 * [Minigraph](https://github.com/lh3/minigraph) Construct graphs or align short or long reads to graphs
 * [Chrom_mini_graph](https://github.com/gaojunxuan/chrom_mini_graph) Generate and map reads onto a coloured minimizer pangenome graph
 * [Panaln](https://github.com/Lilu-guo/Panaln) Pangenome construction and read alignment
-* [theseus](https://github.com/albertjimenezbl/theseus-lib) (preprint)[https://www.biorxiv.org/content/10.64898/2026.02.12.705572v1] A fast and optimal sequence to graph alignment library and non-production ready toolset
+* [theseus](https://github.com/albertjimenezbl/theseus-lib) [preprint](https://www.biorxiv.org/content/10.64898/2026.02.12.705572v1) A fast and optimal sequence to graph alignment library and non-production ready toolset
 
 
 # Long read alignment to a pangenome graph
